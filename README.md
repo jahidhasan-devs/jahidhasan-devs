@@ -4,9 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Jahid+Hasan;Junior+Web+Developer;MERN+Stack+Developer;Next.js+Developer;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Things+%F0%9F%9A%80" />
 </p>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Jahid%20Hasan&fontSize=42&fontColor=ffffff&animation=twinkling"/>
-</p>
+
 
 ## 💻 Junior Web Developer
 
