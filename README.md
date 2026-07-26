@@ -1,106 +1,104 @@
 # Hi 👋, I'm Jahid Hasan
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Jahid%20Hasan&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<h3 align="center">Junior Web Developer | MERN Stack Developer | CSE Student</h3>
 
-## 💻 Junior Web Developer
-
-Passionate about building modern, responsive, and user-friendly web applications using JavaScript technologies. I enjoy solving real-world problems, learning new technologies, and continuously improving my development skills.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4facfe,100:00f2fe&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Sc. in Computer Science & Engineering at Uttara University
-- 🌱 Currently exploring **Next.js**, **MongoDB**, and modern backend development
-- 🚀 Currently working on a **Tourism Management Website**
-- 🔐 Learning Authentication & Authorization using Better Auth and JWT
-- 💡 Interested in Full Stack Web Development
-- 🎯 Goal: Become a Professional MERN Stack Developer
-
----
-
-## 📍 Contact
-
-📍 Bangladesh
-
-📧 YOUR_EMAIL@gmail.com
-
----
-
-## 🛠 Tech Stack
-
-### Frontend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
-</p>
-
-### Backend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,vercel,npm" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
+- 🎓 B.Sc. in Computer Science & Engineering
+- 🌱 Currently exploring **Next.js** & **MongoDB**
+- 🚀 Working on a **Tourism Management Website**
+- 💬 Ask me about **React, Next.js, JavaScript**
+- 📫 Reach me: **your-email@gmail.com**
+- 📍 Bangladesh
 
 ---
 
 ## 🚀 Current Activities
 
-- 🌱 Exploring Next.js App Router
-- 💼 Building Tourism Management Platform
-- 📚 Learning Backend Security
-- ⚡ Improving Problem Solving Skills
-- 🔥 Building Full Stack Projects
+- 🔭 Building Full Stack Projects
+- 🌱 Learning Backend Development
+- 📚 Improving Problem Solving Skills
+- ⚡ Exploring Better Auth & JWT
+- 🎯 Preparing for Web Developer Career
 
 ---
 
-## ✨ Quote
+## 🛠️ Tech Stack
 
-> "First, solve the problem. Then, write the code." – John Johnson
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,firebase,git,github,vscode,vercel" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+</p>
 
 ---
 
 ## 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+## ✨ Quote
+
+> "Code. Learn. Build. Repeat."
