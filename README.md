@@ -1,9 +1,14 @@
-# Hi 👋, I'm Jahid Hasan
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Jahid+Hasan;Junior+Web+Developer;MERN+Stack+Developer;Next.js+Developer;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Things+%F0%9F%9A%80" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:06B6D4&height=260&section=header&text=Jahid%20Hasan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Web%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=60&animation=fadeIn"
+    width="100%"
+    alt="Banner"
+  />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Jahid+Hasan;Frontend+Developer;React+%7C+Next.js+Developer;Always+Learning+New+Things" />
+</p>
 
 
 ## 💻 Junior Web Developer
@@ -25,9 +30,9 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 ## 📍 Contact
 
-📍 Bangladesh
+📍Dhaka Bangladesh 
 
-📧 YOUR_EMAIL@gmail.com
+📧 jahidsharuar2021@gmail.com
 
 ---
 
@@ -61,7 +66,7 @@ Passionate about building modern, responsive, and user-friendly web applications
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_USERNAME">
+<a href="https://www.linkedin.com/in/md-jahid-hasan-306700292">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -69,19 +74,12 @@ Passionate about building modern, responsive, and user-friendly web applications
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:jahidsharuar2021@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jahidhasan-devs&theme=tokyonight&column=5&margin-w=15&margin-h=15&no-frame=true&no-bg=true"/>
-</p>
 
 ---
 
@@ -101,7 +99,15 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 </p>
 
----
+
+
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jahidhasan-devs&theme=tokyo-night&hide_border=true" />
+</p>
+
 
 ## 🚀 Current Activities
 
@@ -111,14 +117,6 @@ Passionate about building modern, responsive, and user-friendly web applications
 - 📚 Improving Backend Development Skills
 - ⚡ Solving Programming Problems Regularly
 - 🎯 Working towards becoming a Professional MERN Stack Developer
-
----
-
-## 📈 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jahidhasan-devs&theme=tokyo-night&hide_border=true" />
-</p>
 
 ---
 
@@ -170,4 +168,4 @@ Passionate about building modern, responsive, and user-friendly web applications
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer"/>
+
