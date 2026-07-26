@@ -81,25 +81,14 @@ Passionate about building modern, responsive, and user-friendly web applications
 </p>
 
 
----
 
 ## 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jahidhasan-devs&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidhasan-devs&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 <p align="center">
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jahidhasan-devs&theme=tokyonight&hide_border=true"/>
 
 </p>
-
-
 
 
 ## 📈 GitHub Activity Graph
@@ -150,13 +139,7 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 > **"First, solve the problem. Then, write the code."** — John Johnson
 
----
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Thank+You+For+Visiting+My+Profile!;Happy+Coding!+💙;Keep+Learning+Keep+Building!+🚀" />
-</p>
-
----
 
 <p align="center">
   <b>⭐ If you like my work, don't forget to star my repositories! ⭐</b>
