@@ -84,17 +84,22 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jahidhasan-devs&theme=tokyonight&hide_border=true"/>
-
+<p align="left">
+  <img
+    width="100%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=jahidhasan-devs&theme=tokyonight&hide_border=true&background=1A1B27&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD"
+    alt="GitHub Streak"
+  />
 </p>
-
 
 ## 📈 GitHub Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jahidhasan-devs&theme=tokyo-night&hide_border=true" />
+<p align="left">
+  <img
+    width="50%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=jahidhasan-devs&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=70A5FD&line=BF91F3&point=38BDAE&area=true&area_color=70A5FD&title_color=70A5FD"
+    alt="GitHub Activity Graph"
+  />
 </p>
 
 
