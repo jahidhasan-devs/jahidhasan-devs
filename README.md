@@ -70,7 +70,7 @@ Passionate about building modern, responsive, and user-friendly web applications
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://YOUR_PORTFOLIO">
+<a href="https://YOUR_PORTFOLIO](https://jahid-portfolio-bay.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
