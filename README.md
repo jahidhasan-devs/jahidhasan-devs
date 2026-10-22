@@ -94,13 +94,17 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 ## 📈 GitHub Activity Graph
 
-<p align="left">
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=jahidhasan-devs&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=70A5FD&line=BF91F3&point=38BDAE&area=true&area_color=70A5FD&title_color=70A5FD"
-    alt="GitHub Activity Graph"
-  />
+<p align="center">
+  <a href="https://github.com/jahidhasan-devs">
+    <img
+      width="100%"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=jahidhasan-devs&theme=tokyo-night"
+      alt="GitHub Activity Graph"
+    />
+  </a>
 </p>
+
+---
 
 
 ## 🚀 Current Activities
