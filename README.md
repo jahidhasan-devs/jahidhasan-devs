@@ -95,7 +95,9 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 ## 📈 GitHub Activity Graph
 
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arashikdev&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 
 ---
 
